@@ -1,0 +1,20 @@
+{
+  "name": "ivendorserver",
+  "version": "1.0.0",
+  "description": "ivendor node server",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "_health"
+  },
+  "keywords": [
+    "ivendor"
+  ],
+  "author": "s a longley",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.1.13"
+  }
+}
