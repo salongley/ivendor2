@@ -2,7 +2,7 @@
   "name": "ivendorserver",
   "version": "1.0.0",
   "description": "ivendor node server",
-  "main": "index.js",
+  "main": "NODE_ENV=staging node index.js",
   "directories": {
     "lib": "lib"
   },
